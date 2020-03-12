@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutinesSample</string>
+    <string name="titleLoadImage">load picture</string>
+    <string name="picture_url_path">https://fsa.zobj.net/crop.php?r=HX65PCkcDBy4YcqIwMj1TRMRc4D0nkOoZmexThdm8VW2oR5wezAO3P_wpTVD8lDAlqEQ_Q5UshhjUkcCDpCDilw8I3gHd0Mh6Ln4uam-CfJp9v5f_TeFL1_Oc-AGUc86jMhyTJAFjaNw8C61</string>
+</resources>
